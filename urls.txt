@@ -1,1 +1,1 @@
-http://backend.course#sasha-kas
+http://backend.course?name="Саша Касянюк"&name=sasha-kas&group="ФЕП-21"&subgroup="1"
