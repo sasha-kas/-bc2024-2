@@ -1,1 +1,2 @@
 http://backend.course#sasha-kas
+http://backend.course?name=%22Саша%20Касянюк%22&github=sasha-kas&group=%22ФЕП-21%22&subgroup=%221%22
